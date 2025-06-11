@@ -42,5 +42,6 @@ CREATE TABLE IF NOT EXISTS expenses (
     note VARCHAR(255),
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
+
 ![Screenshot 2025-06-11 132327](https://github.com/user-attachments/assets/6a04b4ad-eafd-4b09-b4c7-67d6ccd9cc90)
 
